@@ -4,7 +4,7 @@
 Used PSR standarts, no more description for now.
 
 File structure:
-
+----------------------------------------------
 ├── README.md
 ├── data
 ├── doc
